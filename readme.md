@@ -14,7 +14,7 @@ Run `source env.beta` in Terminal in order to load.
 ## Finally
 Sit down and wait. It usually take around 15 - 20 minutes to submit and wait for complete processing in email.
 
-![image][screenshot.png]
+![image](screenshot.png)
 
 ## Reference
 For details, refer to [https://github.com/fastlane/fastlane/](https://github.com/fastlane/fastlane/)
