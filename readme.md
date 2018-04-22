@@ -1,7 +1,9 @@
 A simple fastlane setup for submit to Apple Testflight.
 
 ## Pre-setup
-Make sure dont have any issue regarding [distribution private key](https://stackoverflow.com/questions/16563364/how-can-i-add-private-key-to-the-distribution-certificate/16563683)
+- Latest fastlane installed
+- Make sure dont have any issue regarding [distribution private key](https://stackoverflow.com/questions/16563364/how-can-i-add-private-key-to-the-distribution-certificate/16563683)
+- Run `fastlane init` in Terminal inside the project directory and choose option [4] to setup manually. Then update "Fastfile" as stated below.
 
 ## Fastfile
 Contains script to submit testflight only. Need to edit based on project name and scheme
